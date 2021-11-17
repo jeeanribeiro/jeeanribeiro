@@ -9,7 +9,7 @@
 
 I'm a passionate Software Engineer, front-end specialist and blockchain enthusiast.
 
-Actually learning blockchain technologies (Ethereum and Cardano dApps development).
+Actually learning blockchain technologies (Ethereum dApps development).
 
 I like to travel, learn new things and have an active mind and body.
 
