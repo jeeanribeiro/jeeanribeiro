@@ -5,11 +5,11 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Jean%20Ribeiro-grey?style=flat-square&labelColor=black&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeeanribeiro/)](https://www.linkedin.com/in/jeeanribeiro/) 
 [![Gmail Badge](https://img.shields.io/badge/-iamjeanribeiro@gmail.com-grey?style=flat-square&labelColor=black&logo=Gmail&logoColor=white&link=mailto:iamjeanribeiro@gmail.com)](mailto:iamjeanribeiro@gmail.com)
 
-**Software Engineer** [@Elo7](https://github.com/elo7)
+**Software Engineer** [@IOTA](https://github.com/iotaledger)
 
-I'm a passionate Software Engineer, front-end specialist and blockchain enthusiast.
+I'm a passionate Software Engineer, front-end specialist and blockchain/DLT enthusiast.
 
-Actually learning blockchain technologies (Ethereum dApps development).
+Actually developing IOTA's Firefly Wallet and some personal projects.
 
 I like to travel, learn new things and have an active mind and body.
 
