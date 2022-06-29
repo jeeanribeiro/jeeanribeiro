@@ -18,6 +18,5 @@ I have experience with various languages/frameworks, web, mobile and desktop dev
 #
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jeeanribeiro&count_private=true&include_all_commits=true&theme=dark&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=jeeanribeiro&theme=dark&hide_border=true" />
 </p>
