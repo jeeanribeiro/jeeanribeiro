@@ -14,9 +14,3 @@ Actually developing IOTA's Firefly Wallet and some personal projects.
 I like to travel, learn new stuff and have an active mind and body.
 
 I have experience with various languages/frameworks, web, mobile and desktop development, also some experience with DevOps.
-
-#
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=jeeanribeiro&theme=dark&hide_border=true" />
-</p>
