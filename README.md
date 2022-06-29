@@ -3,7 +3,7 @@
 [![Codepen Badge](https://img.shields.io/badge/-@jeeanribeiro-grey?style=flat-square&labelColor=black&logo=Codepen&logoColor=white&link=https://codepen.io/jeeanribeiro)](https://codepen.io/jeeanribeiro)
 [![Twitter Badge](https://img.shields.io/badge/-@jeeanribeiro-grey?style=flat-square&labelColor=black&logo=twitter&logoColor=white&link=https://twitter.com/jeeanribeiro)](https://twitter.com/jeeanribeiro) 
 [![Linkedin Badge](https://img.shields.io/badge/-Jean%20Ribeiro-grey?style=flat-square&labelColor=black&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeeanribeiro/)](https://www.linkedin.com/in/jeeanribeiro/) 
-[![Gmail Badge](https://img.shields.io/badge/-iamjeanribeiro@gmail.com-grey?style=flat-square&labelColor=black&logo=Gmail&logoColor=white&link=mailto:iamjeanribeiro@gmail.com)](mailto:iamjeanribeiro@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-contact@jeanribeiro.dev-grey?style=flat-square&labelColor=black&logo=Gmail&logoColor=white&link=mailto:contact@jeanribeiro.dev)](mailto:contact@jeanribeiro.dev)
 
 **Software Engineer** [@IOTA](https://github.com/iotaledger)
 
@@ -11,45 +11,13 @@ I'm a passionate Software Engineer, front-end specialist and blockchain/DLT enth
 
 Actually developing IOTA's Firefly Wallet and some personal projects.
 
-I like to travel, learn new things and have an active mind and body.
+I like to travel, learn new stuff and have an active mind and body.
 
-## 🧰 Languages and Tools
-<p>
-    Operational System <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" height="30" style="vertical-align:top; margin:4px">
-</p>
- <p>
-    Languages <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/html5/html5-plain.svg" alt="HTML5" height="30" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/css3/css3-plain.svg" alt="CSS3" height="30" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/javascript/javascript-plain.svg" alt="Javascript" height="30" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/typescript/typescript-plain.svg" alt="Typescript" height="30" style="vertical-align:top; margin:4px">
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/python/python-plain.svg" alt="Python" height="30" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/java/java-plain.svg" alt="Java" height="30" style="vertical-align:top; margin:4px">
-</p>
-<p>
-    Libs/Frameworks <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/nodejs/nodejs-plain.svg" alt="NodeJS" height="30" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/sass/sass-original.svg" alt="Sass" height="30" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/react/react-original.svg" alt="React" height="30" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/nextjs/nextjs-original.svg" alt="NextJS" height="30" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/svelte/svelte-original.svg" alt="Svelte" height="30" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/jest/jest-plain.svg" alt="Jest" height="30" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/storybook/storybook-original.svg" alt="Storybook" height="30" style="vertical-align:top; margin:4px">
-</p>
-<p>
-  Databases <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mongodb/mongodb-original.svg" alt="MongoDB" height="30" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" height="30" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mysql/mysql-original.svg" alt="MySQL" height="30" style="vertical-align:top; margin:4px">
-</p>
-<p>
-  CI/CD <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/jenkins/jenkins-original.svg" alt="Jenkins" height="30" style="vertical-align:top; margin:4px">
-</p>
-<p>
-  Cloud <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/amazonwebservices/amazonwebservices-original.svg" alt="Amazon Web Services" height="30" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/azure/azure-original.svg" alt="Azure" height="30" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/digitalocean/digitalocean-original.svg" alt="Digital Ocean" height="30" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/heroku/heroku-original.svg" alt="Heroku" height="30" style="vertical-align:top; margin:4px">
-</p>
-<p>
-  Containers <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/docker/docker-original.svg" alt="Docker" height="30" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" height="30" style="vertical-align:top; margin:4px">
+I have experience with various languages/frameworks, web, mobile and desktop development, also some experience with DevOps.
+
+#
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jeeanribeiro&count_private=true&include_all_commits=true&theme=dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=jeeanribeiro&theme=dark&hide_border=true" />
 </p>
