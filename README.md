@@ -5,7 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Jean%20Ribeiro-grey?style=flat-square&labelColor=black&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeeanribeiro/)](https://www.linkedin.com/in/jeeanribeiro/) 
 [![Gmail Badge](https://img.shields.io/badge/-contact@jeanribeiro.dev-grey?style=flat-square&labelColor=black&logo=Gmail&logoColor=white&link=mailto:contact@jeanribeiro.dev)](mailto:contact@jeanribeiro.dev)
 
-**Software Engineer** [@IOTA](https://github.com/iotaledger)
+**Software Engineer** [@bloomwalletio](https://github.com/bloomwalletio)
 
 I'm a passionate Software Engineer, front-end specialist and blockchain/DLT enthusiast.
 
