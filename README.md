@@ -9,7 +9,7 @@
 
 I'm a passionate Software Engineer, front-end specialist and blockchain/DLT enthusiast.
 
-Actually developing IOTA's Firefly Wallet and some personal projects.
+Actually developing Bloom Wallet and some side projects.
 
 I like to travel, learn new stuff and have an active mind and body.
 
