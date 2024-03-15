@@ -7,7 +7,7 @@
 
 **Software Engineer** [@bloomwalletio](https://github.com/bloomwalletio)
 
-I'm a passionate Software Engineer, front-end specialist and blockchain/DLT enthusiast.
+I'm a passionate Software Engineer, front-end expert.
 
 Actually developing Bloom Wallet and some side projects.
 
