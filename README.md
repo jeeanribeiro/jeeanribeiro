@@ -8,4 +8,4 @@
 **Software Engineer** [@bloomwalletio](https://github.com/bloomwalletio)
 
 I'm a passionate Software Engineer, front-end expert.
-Actually developing Bloom Wallet and some side projects.
+Actually building Bloom Wallet and some side projects.
